@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello World !!!
+          Cloud computing - group 6 !!!
         </a>
       </header>
     </div>
